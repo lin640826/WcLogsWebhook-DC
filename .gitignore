@@ -1,0 +1,5 @@
+node_modules/
+sent_logs.json
+config.json
+setup.log
+.env
